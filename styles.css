@@ -1,9 +1,9 @@
 :root {
     --white: #fff;
-    --light-grey: #f5f6f7;
-    --dark-grey: #0a0a23;
-    --yellow: #f1be32;
-    --golden-yellow: #feac32;
+    --light-grey: #fff3e0;
+    --dark-grey: #fdf6e3;
+    --yellow: #3e2723;
+    --golden-yellow:#ff7043;
   }
   
   *,
@@ -15,7 +15,7 @@
   }
   
   body {
-    background-color: var(--dark-grey);
+    background-color: #3e2723;
   }
   
   main {
